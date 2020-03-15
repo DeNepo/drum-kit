@@ -83,8 +83,8 @@ __A user can know which keys are currently pressed__
 
 ### Handlers:
 
-* Create a `removeTransition` handler to remove the `.played` class when a key is released
-* Update the `playHandler` to add the `.played` class when a key is pressed
+* Create a `removeTransition` handler to remove the `.playing` class when a key is released
+* Update the `playHandler` to add the `.playing` class when a key is pressed
 
 ### Listeners:
 
