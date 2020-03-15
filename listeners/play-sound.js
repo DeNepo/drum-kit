@@ -1,3 +1,1 @@
-window.addEventListener('keydown', function playSound(e) {
-  console.log(e.keyCode);
-});
+window.addEventListener('keydown', playSound);
