@@ -69,6 +69,7 @@ __A user can use a well-styled page__
 ### DOM:
 
 * Create a link tag to require the styles
+* Add classes to styled elements
 
 ---
 
